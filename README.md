@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing fun Android apps.
-- 📚 &nbsp; I’m currently learning Jetpack Compose and Flutter.
+- 📚 &nbsp; I’m currently learning Jetpack Compose.
 - 🌱 &nbsp; Learning more about Android, Networking and Cryptocurrencies.
 - ✍️ &nbsp; Pursuing Digital Painting and Creative Writing as hobbies.
 
